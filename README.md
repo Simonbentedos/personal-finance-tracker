@@ -147,7 +147,7 @@ personal-finance-tracker/
 ## Notes
 
 - The application is designed to work with Supabase Row Level Security (RLS). The default policies allow all operations. In production, you should implement proper authentication and restrict access based on user_id.
-- The monthly budget is currently set to $3,000 by default. This can be made configurable in future updates.
+- The monthly budget is currently set to 3,000 (SUBJECT TO CONSULTATION/REVISION) by default. This can be made configurable in future updates.
 
 ## License
 
