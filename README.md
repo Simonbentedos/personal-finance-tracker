@@ -1,4 +1,4 @@
-# Personal Finance Tracker
+# Personal Finance Tracker by M3R
 
 A full-stack personal finance tracking application built with React and Node.js, integrated with Supabase (PostgreSQL) for data persistence.
 
