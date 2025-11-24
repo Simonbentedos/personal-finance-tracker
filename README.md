@@ -1,3 +1,5 @@
+# M3R Sprint 1
+
 # Personal Finance Tracker by M3R
 
 A full-stack personal finance tracking application built with React and Node.js, integrated with Supabase (PostgreSQL) for data persistence.
@@ -7,7 +9,7 @@ A full-stack personal finance tracking application built with React and Node.js,
 - **Dashboard**: View key financial metrics, monthly budget, spending categories, and upcoming reminders
 - **Transaction History**: Track all income and expenses with search and filter capabilities
 - **Reports**: Analyze spending patterns with monthly and yearly charts
-- **Reminders**: Set up payment reminders for bills and upcoming expenses
+- **Reminders/Budget Planning**: Set up payment reminders for bills and upcoming expenses (to be revised on the next sprint)
 
 ## Tech Stack
 
@@ -23,6 +25,7 @@ A full-stack personal finance tracking application built with React and Node.js,
 - Node.js (v14 or higher)
 - npm or yarn
 - Supabase account and project
+- VSCode 
 
 ### Installation
 
