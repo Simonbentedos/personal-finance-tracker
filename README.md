@@ -104,7 +104,7 @@ The application uses two main tables:
 - `is_completed`: Boolean flag
 - `created_at`, `updated_at`: Timestamps
 
-## API Endpoints
+## API Endpoints (all are yet to be tested)
 
 ### Dashboard
 - `GET /api/dashboard/metrics` - Get dashboard metrics
