@@ -1,0 +1,30 @@
+.navigation {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.nav-item {
+  text-decoration: none;
+  color: #2c3e50;
+  padding: 8px 10px;
+  font-weight: 500;
+  border-radius: 4px;
+}
+
+.nav-item:hover {
+  background: rgba(0,0,0,0.03);
+}
+
+.nav-item.active {
+  font-weight: 700;
+  color: #1a242f;
+}
+
+.nav-label { font-size: 14px; }
+
+@media (max-width: 768px) {
+  .nav-label { display: none; }
+}
+
+
