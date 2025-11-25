@@ -123,6 +123,12 @@ The application uses two main tables:
 - `GET /api/reports/monthly` - Get monthly report data
 - `GET /api/reports/yearly` - Get yearly overview data
 
+### API tested on Sprint 1
+- `GET /api/health`
+- `POST /api/auth/signup`
+- `POST /api/auth/login`
+
+  
 ## Project Structure
 
 ```
